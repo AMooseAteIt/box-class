@@ -1,2 +1,1 @@
-# box-class
-a class to create boxes
+# Box Class
